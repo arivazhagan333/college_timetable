@@ -31,6 +31,8 @@ Configure these in the **Environment** section of your Render Web Service:
 | `MONGODB_URI` | **Yes** | `mongodb+srv://admin:<password>@cluster0.xxxx.mongodb.net/college-timetable?retryWrites=true&w=majority` | Cloud MongoDB Atlas database connection string |
 | `JWT_SECRET` | **Yes** | `super_secret_college_timetable_jwt_key_2026` | Secret key used to sign authentication tokens |
 
+mongodb+srv://arivazhagnbe:oZ8Zn82rG0d3FwmL@cluster0.wtrqo.mongodb.net/
+
 ---
 
 ## 🛠️ 3. Step-by-Step Deployment Procedure
